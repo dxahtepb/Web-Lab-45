@@ -1,0 +1,26 @@
+.canvas {
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.buttonNew {
+    margin-left: auto;
+    margin-right: 20px;
+}
+
+.buttonSave {
+    margin-left: 20px;
+    margin-right: auto;
+}
+
+.buttonsWrap {
+    padding-top: 30px;
+    display: flex;
+}
+
+.status {
+    padding-top: 30px;
+    text-align: center;
+}
